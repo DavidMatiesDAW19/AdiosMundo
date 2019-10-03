@@ -5,6 +5,7 @@ public class adiosmundo{
 	String reset="\033[0m";
 		System.out.println(amarillo+"Adios Mundo!"+reset);
 		System.out.println(verde+"Pero... volveré!"+reset);
+		System.out.println("Puto el que lo lea");
 }
 
 }
